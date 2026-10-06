@@ -1,0 +1,555 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "shop": "Tienda",
+    "about": "Sobre Nosotros",
+    "contact": "Contacto",
+    "cart": "Carrito"
+  },
+  "footer": {
+    "quickLinks": "Enlaces Rápidos",
+    "categories": "Categorías",
+    "contactUs": "Contáctenos",
+    "catAction": "Figuras de Acción",
+    "catEducational": "Juguetes Educativos",
+    "catOutdoor": "Deportes y Aire Libre",
+    "catDolls": "Muñecas y Peluches",
+    "catBoardGames": "Juegos de Mesa",
+    "catStem": "Juguetes STEM",
+    "copyright": "© 2024 ToyWorld. Todos los derechos reservados.",
+    "madeWith": "Hecho con",
+    "forKids": "para niños en todas partes",
+    "tagline": "¡Donde la imaginación cobra vida!",
+    "rights": "Todos los derechos reservados."
+  },
+  "hero": {
+    "badge": "Nuevas llegadas cada semana",
+    "title": "Juega, Aprende y Crece",
+    "titleAccent": "Juntos",
+    "subtitle": "Descubre miles de juguetes que estimulan la imaginación, desarrollan habilidades y crean recuerdos que duran toda la vida.",
+    "cta": {
+      "primary": "Comprar Ahora",
+      "secondary": "Nuestra Historia"
+    },
+    "ctaSecondary": "Ver Categorías",
+    "stat1Value": "10,000+",
+    "stat1Label": "Niños Felices",
+    "stat2Value": "500+",
+    "stat2Label": "Marcas de Juguetes",
+    "stat3Value": "4.9",
+    "stat3Label": "Calificación",
+    "heading": {
+      "line1": "Juguetes que Generan",
+      "accent": "Alegría",
+      "line2": "Cada Día"
+    },
+    "subtext": "Descubre miles de juguetes seguros, imaginativos y educativos para todas las edades. Desde los primeros pasos hasta grandes aventuras, ToyZone tiene el juguete perfecto para cada niño.",
+    "floatCard1": {
+      "title": "Envoltorio de Regalo Gratis",
+      "sub": "En compras mayores a $40"
+    },
+    "floatCard2": {
+      "title": "Tienda Mejor Calificada",
+      "sub": "4.9 estrellas de más de 8,000 reseñas"
+    },
+    "stats": [
+      {
+        "value": "10,000+",
+        "label": "Happy Kids"
+      },
+      {
+        "value": "500+",
+        "label": "Toy Brands"
+      },
+      {
+        "value": "4.9★",
+        "label": "Average Rating"
+      }
+    ]
+  },
+  "categories": {
+    "title": "Compra por Categoría",
+    "subtitle": "Encuentra el juguete perfecto para cada niño",
+    "viewAll": "Ver Todo",
+    "eyebrow": "Explorar por Categoría",
+    "heading": "Encuentra el Juguete Perfecto",
+    "subtext": "Desde aventuras llenas de acción hasta juego creativo tranquilo, explora nuestras categorías seleccionadas diseñadas para todo tipo de niños."
+  },
+  "featured": {
+    "title": "Juguetes Más Vendidos",
+    "subtitle": "Amados por niños, confiados por padres",
+    "addToCart": "Agregar al Carrito",
+    "viewAll": "Ver todos los juguetes",
+    "sale": "Oferta",
+    "new": "Nuevo",
+    "popular": "Popular",
+    "bestseller": "Más Vendido",
+    "inStock": "En Stock",
+    "outOfStock": "Agotado",
+    "eyebrow": "Tendencia Ahora",
+    "heading": "A los Niños Les Encanta Esto"
+  },
+  "newsletter": {
+    "badge": "Mantente Informado",
+    "title": "Obtén Ofertas Exclusivas y Nuevas Llegadas",
+    "subtitle": "Únete a más de 50,000 padres felices que obtienen acceso anticipado a ventas, nuevos juguetes y consejos para padres.",
+    "placeholder": "Ingresa tu dirección de correo",
+    "cta": "Suscribirse Gratis",
+    "disclaimer": "Sin spam, nunca. Desuscribirse en cualquier momento.",
+    "benefit1": "Acceso anticipado a ventas",
+    "benefit2": "Alertas de nuevas llegadas",
+    "benefit3": "Consejos para padres"
+  },
+  "shop": {
+    "title": "Todos los Juguetes",
+    "subtitle": "productos encontrados",
+    "filterAge": "Grupo de Edad",
+    "filterCategory": "Categoría",
+    "filterPrice": "Rango de Precio",
+    "sortBy": "Ordenar Por",
+    "sortFeatured": "Destacados",
+    "sortPriceLow": "Precio: Menor a Mayor",
+    "sortPriceHigh": "Precio: Mayor a Menor",
+    "sortRating": "Mejor Calificado",
+    "results": "productos encontrados",
+    "addToCart": "Agregar al Carrito",
+    "allCategories": "Todas las Categorías",
+    "allAges": "Todas las edades",
+    "searchPlaceholder": "Buscar juguetes, marcas, categorías...",
+    "filtersLabel": "Filtros",
+    "clearAll": "Limpiar todo",
+    "noResults": {
+      "heading": "No se encontraron juguetes",
+      "body": "Intenta ajustar tu búsqueda o filtros para encontrar lo que buscas.",
+      "cta": "Limpiar todos los filtros"
+    },
+    "sort": {
+      "label": "Ordenar por",
+      "options": [
+        {
+          "value": "popular",
+          "label": "Most Popular"
+        },
+        {
+          "value": "newest",
+          "label": "Newest First"
+        },
+        {
+          "value": "price-asc",
+          "label": "Price: Low to High"
+        },
+        {
+          "value": "price-desc",
+          "label": "Price: High to Low"
+        },
+        {
+          "value": "rating",
+          "label": "Top Rated"
+        }
+      ]
+    },
+    "filters": {
+      "category": "Categoría",
+      "ageGroup": "Grupo de edad",
+      "brand": "Marca",
+      "priceRange": "Rango de precio"
+    },
+    "pagination": {
+      "prev": "Anterior",
+      "next": "Siguiente",
+      "showing": "Mostrando {from}–{to} de {total} productos"
+    },
+    "card": {
+      "addToCart": "Añadir",
+      "soldOut": "Agotado",
+      "wishlist": "Añadir a lista de deseos"
+    },
+    "newsletter": {
+      "heading": "Obtén ofertas exclusivas de juguetes",
+      "body": "Únete a más de 50,000 padres y obtén acceso anticipado a ventas, nuevos productos y guías de regalos.",
+      "placeholder": "Tu dirección de correo electrónico",
+      "cta": "Suscribirse"
+    }
+  },
+  "product": {
+    "addToCart": "Añadir al carrito",
+    "buyNow": "Comprar ahora",
+    "inStock": "En stock",
+    "outOfStock": "Agotado",
+    "reviews": "reseñas",
+    "description": "Descripción",
+    "ageGroup": "Grupo de edad",
+    "category": "Categoría",
+    "share": "Compartir",
+    "wishlist": "Añadir a lista de deseos",
+    "relatedTitle": "También te podría gustar"
+  },
+  "cart": {
+    "title": "Tu carrito",
+    "empty": {
+      "heading": "Tu carrito está vacío",
+      "body": "Parece que aún no has añadido ningún juguete. ¡Explora nuestra colección y encuentra algo increíble para los pequeños!",
+      "cta": "Continuar comprando"
+    },
+    "emptySubtitle": "Tu carrito se ve un poco vacío",
+    "shopNow": "Empezar a comprar",
+    "remove": "Eliminar",
+    "quantity": "Cantidad",
+    "subtotal": "Subtotal",
+    "shipping": {
+      "free": "¡Desbloqueaste envío GRATIS en este pedido!",
+      "threshold": "Agrega ${amount} más para desbloquear envío gratis"
+    },
+    "shippingFree": "Gratis",
+    "total": "Total",
+    "checkout": {
+      "cta": "Ir al Pago"
+    },
+    "continueShopping": "Continuar Comprando",
+    "promoCode": "Código Promocional",
+    "apply": "Aplicar",
+    "subtitle": "{count} artículos listos para la aventura",
+    "item": {
+      "remove": "Eliminar artículo",
+      "decrease": "Disminuir cantidad",
+      "increase": "Aumentar cantidad",
+      "each": "Cada uno"
+    },
+    "summary": {
+      "title": "Resumen del Pedido",
+      "subtotal": "Subtotal",
+      "shipping": "Envío Estimado",
+      "freeLabel": "GRATIS",
+      "total": "Total General"
+    },
+    "discount": {
+      "label": "Código de Descuento",
+      "placeholder": "Ingresa código (ej. TOYZONE10)",
+      "apply": "Aplicar",
+      "error": "Ese código no parece correcto. Intenta TOYZONE10 o PLAY5.",
+      "applied": "¡Descuento aplicado exitosamente!",
+      "hint": "Intenta TOYZONE10 para 10% de descuento o PLAY5 para $5 de descuento"
+    },
+    "trust": {
+      "secure": "Pago Seguro",
+      "returns": "Devoluciones Fáciles"
+    },
+    "promo": {
+      "heading": "Oferta por Tiempo Limitado",
+      "body": "Usa el código TOYZONE10 al pagar para obtener 10% de descuento en tu pedido completo. ¡Válido en todos los juguetes y juegos esta semana solamente!"
+    }
+  },
+  "about": {
+    "badge": "Nuestra Historia",
+    "title": "Trayendo Alegría a los Niños Desde 2010",
+    "subtitle": "Creemos que cada niño merece juguetes que inspiren creatividad, construyan confianza y hagan que el aprendizaje sea divertido.",
+    "mission": "Nuestra Misión",
+    "missionText": "Curar los mejores juguetes del mundo y entregarlos a familias en todas partes, haciendo la infancia mágica un juguete a la vez.",
+    "vision": "Nuestra Visión",
+    "visionText": "Un mundo donde cada niño tenga acceso a juguetes de calidad que nutran su potencial único e inspiren curiosidad de por vida.",
+    "stat1Value": "14",
+    "stat1Label": "Años en el Negocio",
+    "stat2Value": "2M+",
+    "stat2Label": "Juguetes Entregados",
+    "stat3Value": "50+",
+    "stat3Label": "Países Atendidos",
+    "stat4Value": "98%",
+    "stat4Label": "Clientes Satisfechos",
+    "teamTitle": "Conoce Nuestro Equipo",
+    "teamSubtitle": "Personas apasionadas que aman los juguetes tanto como los niños",
+    "valuesTitle": "En Qué Creemos",
+    "value1Title": "Seguridad Primero",
+    "value1Desc": "Cada juguete es rigurosamente probado y certificado como seguro para niños.",
+    "value2Title": "Calidad Garantizada",
+    "value2Desc": "Nos asociamos solo con marcas que cumplen nuestros altos estándares de calidad.",
+    "value3Title": "Ecológico",
+    "value3Desc": "Comprometidos con empaques sostenibles y marcas de juguetes conscientes del medio ambiente.",
+    "value4Title": "Comunidad",
+    "value4Desc": "Apoyando organizaciones benéficas infantiles y donando juguetes a quienes lo necesitan.",
+    "hero": {
+      "badge": "Años de Alegría",
+      "title": "Creemos que Todo Niño Merece Jugar",
+      "subtitle": "ToyZone fue construido por padres, educadores y soñadores que saben que el juguete correcto en el momento correcto puede despertar un amor de por vida por el aprendizaje, la creatividad y la aventura.",
+      "eyebrow": "Nuestra Historia",
+      "description": "ToyZone nació de una idea simple: el juguete correcto en el momento correcto puede cambiar la vida de un niño. Durante más de 12 años, hemos estado curando juguetes seguros, imaginativos y alegres para familias en todas partes.",
+      "cta": "Explora Nuestra Colección",
+      "secondary": "Ponte en Contacto"
+    },
+    "story": {
+      "eyebrow": "Cómo Comenzó",
+      "title": "De una Pequeña Tienda a un Millón de Sonrisas",
+      "subtitle": "De un estante de garaje a una familia global, aquí está la historia de cómo crecimos — un juguete, un niño, una sonrisa a la vez.",
+      "p1": "En 2012, Sarah Mitchell abrió una pequeña tienda de juguetes en San Francisco con 200 productos cuidadosamente seleccionados y un gran sueño. Había pasado años como psicóloga infantil observando cómo el juguete correcto podía desbloquear la creatividad, construir confianza y fortalecer los lazos familiares.",
+      "p2": "Lo que comenzó como un favorito del vecindario rápidamente se convirtió en algo mucho más grande. Las familias conducían horas para visitarnos, y pronto la demanda de una tienda en línea fue imposible de ignorar. Hoy, ToyZone envía a cada rincón del país, pero nuestra filosofía fundadora nunca ha cambiado.",
+      "bullets": [
+        "Every toy is tested by real children before we stock it",
+        "We partner only with manufacturers who meet our ethical sourcing standards",
+        "Our team includes educators, child psychologists, and parents",
+        "We donate 1% of every sale to childhood literacy programs"
+      ]
+    },
+    "values": {
+      "eyebrow": "En Qué Creemos",
+      "title": "Principios que Guían Cada Decisión",
+      "subtitle": "Desde los juguetes que elegimos hasta la forma en que los empacamos, nuestros valores moldean cada parte de la experiencia ToyZone."
+    },
+    "team": {
+      "eyebrow": "Las Personas Detrás del Juego",
+      "title": "Conoce el Equipo de ToyZone",
+      "subtitle": "Un grupo apasionado de padres, educadores y defensores del juego que se despiertan cada día pensando en cómo traer más alegría a los niños."
+    },
+    "stats": {
+      "title": "ToyZone en Números",
+      "subtitle": "Casi dos décadas trayendo alegría a familias alrededor del mundo — y apenas estamos comenzando."
+    },
+    "cta": {
+      "title": "¿Listo para Encontrar el Juguete Perfecto?",
+      "subtitle": "Explora nuestra colección cuidadosamente seleccionada de más de 2,000 juguetes seguros, imaginativos y amigables con el planeta para cada edad y etapa.",
+      "shop": "Comprar Ahora",
+      "contact": "Ponte en Contacto",
+      "description": "Explora miles de juguetes seguros, imaginativos y cuidadosamente seleccionados para todas las edades, intereses y presupuestos. Envío gratis en pedidos superiores a $50.",
+      "primary": "Comprar Ahora",
+      "secondary": "Contáctanos"
+    },
+    "timeline": {
+      "eyebrow": "Nuestro Viaje",
+      "title": "Doce Años Haciendo Sonreír a los Niños"
+    },
+    "awards": {
+      "eyebrow": "Reconocimiento",
+      "title": "Confiado por Familias, Reconocido por Expertos",
+      "description": "Nuestro compromiso con la seguridad, la calidad y el desarrollo infantil nos ha ganado reconocimiento de las principales organizaciones de padres y organismos de la industria en todo el país.",
+      "badge": "Galardonado Desde 2015",
+      "items": [
+        {
+          "icon": "🏆",
+          "title": "Parents' Choice Gold Award, 2023",
+          "body": "Recognized for outstanding contribution to children's play and development."
+        },
+        {
+          "icon": "🛡️",
+          "title": "Safe Play Certified Retailer",
+          "body": "Every product meets or exceeds ASTM F963 and EN71 international safety standards."
+        },
+        {
+          "icon": "🌱",
+          "title": "Sustainable Business of the Year, 2022",
+          "body": "Awarded by the Green Retail Council for our eco-friendly packaging and ethical sourcing."
+        },
+        {
+          "icon": "⭐",
+          "title": "Best Online Toy Store, 2024",
+          "body": "Voted by over 50,000 families in the National Parenting Survey."
+        }
+      ]
+    }
+  },
+  "contact": {
+    "badge": "Ponte en Contacto",
+    "title": "Nos Encantaría Saber de Ti",
+    "subtitle": "¿Tienes una pregunta sobre un pedido, necesitas ayuda para elegir el juguete perfecto o simplemente quieres saludar? Estamos aquí para ti.",
+    "nameLabel": "Tu Nombre",
+    "namePlaceholder": "Jane Smith",
+    "emailLabel": "Correo Electrónico",
+    "emailPlaceholder": "hello@example.com",
+    "subjectLabel": "Asunto",
+    "subjectPlaceholder": "¿Cómo podemos ayudarte?",
+    "messageLabel": "Mensaje",
+    "messagePlaceholder": "Cuéntanos qué te preocupa...",
+    "submit": "Enviar Mensaje",
+    "sending": "Enviando...",
+    "successTitle": "¡Mensaje Enviado!",
+    "successText": "Gracias por comunicarte con nosotros. Te responderemos dentro de 24 horas.",
+    "infoTitle": "Información de Contacto",
+    "hoursTitle": "Horario de Atención",
+    "hours": "Lun a Vie: 9am a 6pm PST",
+    "hoursSat": "Sábado: 10am a 4pm PST",
+    "hoursSun": "Domingo: Cerrado",
+    "hero": {
+      "badge": "Estamos aquí para ayudarte",
+      "title": "Ponte en Contacto",
+      "subtitle": "¿Preguntas sobre un pedido, un producto o simplemente quieres saludar? Nuestro equipo amable está listo para ayudarte."
+    },
+    "info": {
+      "email": {
+        "label": "Envíanos un Correo",
+        "value": "hello@example.com",
+        "detail": "Respondemos dentro de 24 horas"
+      },
+      "phone": {
+        "label": "Llámanos",
+        "value": "555-0100",
+        "detail": "Lun–Vie, 9am–6pm PST"
+      },
+      "address": {
+        "label": "Visítanos",
+        "value": "123 Rainbow Road",
+        "detail": "Fun City, CA 90210"
+      },
+      "hours": {
+        "label": "Horario de Atención",
+        "value": "Lun–Sáb: 9am–8pm",
+        "detail": "Domingo: 10am–6pm"
+      }
+    },
+    "form": {
+      "title": "Envíanos un Mensaje",
+      "subtitle": "Te responderemos dentro de 24 horas",
+      "namePlaceholder": "Jane Smith",
+      "emailPlaceholder": "hello@example.com",
+      "topicPlaceholder": "Selecciona un tema...",
+      "messagePlaceholder": "Cuéntanos cómo podemos ayudarte...",
+      "submit": "Enviar Mensaje",
+      "sending": "Enviando...",
+      "successTitle": "¡Mensaje Enviado!",
+      "successBody": "Gracias por contactarnos. Un miembro del equipo de ToyZone se pondrá en contacto pronto.",
+      "sendAnother": "Enviar Otro Mensaje"
+    },
+    "store": {
+      "title": "Nuestra Tienda Principal",
+      "address": "123 Rainbow Road, Fun City, CA 90210",
+      "directions": "Obtener Indicaciones"
+    },
+    "faq": {
+      "badge": "Preguntas Frecuentes",
+      "title": "Preguntas Frecuentes",
+      "subtitle": "¿No encuentras lo que buscas? Envíanos un mensaje arriba.",
+      "items": [
+        {
+          "id": "returns",
+          "question": "What is your return policy?",
+          "answer": "We offer a 30-day hassle-free return policy on all items. Products must be in original packaging and unused condition. Simply contact us and we'll arrange a pickup."
+        },
+        {
+          "id": "shipping",
+          "question": "How long does shipping take?",
+          "answer": "Standard shipping takes 3–5 business days. Express shipping (1–2 days) is available at checkout. Orders over $50 qualify for free standard shipping."
+        },
+        {
+          "id": "safety",
+          "question": "Are your toys safety certified?",
+          "answer": "Absolutely. Every product in our store meets or exceeds ASTM and CPSC safety standards. We only carry toys that have passed rigorous testing for all age groups."
+        },
+        {
+          "id": "gift",
+          "question": "Do you offer gift wrapping?",
+          "answer": "Yes! Gift wrapping is available for $4.99 per item. You can add a personalized message card at no extra charge. Select the option at checkout."
+        },
+        {
+          "id": "bulk",
+          "question": "Can I place a bulk or school order?",
+          "answer": "We love working with schools, daycares, and event planners. Contact us directly for bulk pricing and we'll put together a custom quote within 48 hours."
+        }
+      ]
+    },
+    "cta": {
+      "emoji": "🎉",
+      "title": "¿Aún tienes preguntas?",
+      "subtitle": "Nuestros expertos en juguetes están disponibles. Llámanos o visita la tienda cualquier día de la semana.",
+      "callNow": "Llamar Ahora",
+      "emailUs": "Envíanos un Email"
+    },
+    "topics": [
+      "Order Status",
+      "Returns & Exchanges",
+      "Product Question",
+      "Bulk / School Order",
+      "Gift Wrapping",
+      "Other"
+    ]
+  },
+  "value": {
+    "shipping": {
+      "title": "Envío Gratis",
+      "desc": "En todos los pedidos mayores a $35. Entrega rápida a tu puerta."
+    },
+    "safety": {
+      "title": "Certificado de Seguridad",
+      "desc": "Cada juguete cumple o supera los estándares de seguridad ASTM."
+    },
+    "returns": {
+      "title": "Devoluciones Fáciles",
+      "desc": "Devoluciones sin complicaciones en 30 días, sin preguntas."
+    },
+    "support": {
+      "title": "Soporte Experto",
+      "desc": "Nuestros especialistas en juguetes están disponibles 7 días a la semana."
+    }
+  },
+  "story": {
+    "eyebrow": "Nuestra Misión",
+    "heading": "El Juego es el Trabajo de la Infancia",
+    "body1": "Fundada por padres que creen que cada niño merece juguetes que inspiren curiosidad, creatividad y conexión. ToyZone selecciona solo lo mejor de marcas confiables de todo el mundo.",
+    "body2": "Probamos cada producto para garantizar seguridad, durabilidad y valor de juego genuino antes de que llegue a nuestras tiendas. Porque la sonrisa de tu hijo lo vale.",
+    "statValue": "15+ Años",
+    "statLabel": "Trayendo alegría a las familias",
+    "cta": "Más Información Sobre Nosotros",
+    "pillars": [
+      {
+        "icon": "🛡️",
+        "label": "Safety First"
+      },
+      {
+        "icon": "🌍",
+        "label": "Eco-Friendly"
+      },
+      {
+        "icon": "🎓",
+        "label": "Educational"
+      },
+      {
+        "icon": "❤️",
+        "label": "Family Owned"
+      }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "Familias Felices",
+    "heading": "Padres e Hijos Aman ToyZone"
+  },
+  "giftFinder": {
+    "heading": "¿No Sabes Qué Regalar?",
+    "subtext": "Deja que nuestros expertos en juguetes te ayuden a encontrar el regalo perfecto. Explora por edad, interés o presupuesto y descubre algo que les encantará.",
+    "cta": {
+      "primary": "Explorar Todos los Juguetes",
+      "secondary": "Consultar a un Experto"
+    }
+  },
+  "productDetail": {
+    "breadcrumb": {
+      "home": "Inicio",
+      "shop": "Tienda"
+    },
+    "tabs": {
+      "description": "Descripción",
+      "specs": "Especificaciones",
+      "reviews": "Reseñas"
+    },
+    "info": {
+      "ageLabel": "Edad",
+      "inStock": "En Stock",
+      "off": "DESCUENTO",
+      "shortDesc": "Robot interactivo galardonado que enseña fundamentos de programación a través del juego. Se empareja con una aplicación complementaria gratuita para misiones infinitas y desafíos creativos."
+    },
+    "cta": {
+      "addToCart": "Agregar al Carrito",
+      "added": "¡Agregado al Carrito!"
+    },
+    "trust": {
+      "freeShipping": "Envío Gratis en Compras Mayores a $35",
+      "safePayment": "Pago Seguro y Protegido",
+      "easyReturns": "Devoluciones Fáciles en 30 Días"
+    },
+    "related": {
+      "eyebrow": "Explorar Más",
+      "heading": "También Te Puede Gustar",
+      "viewAll": "Ver Todos los Juguetes"
+    },
+    "banner": {
+      "eyebrow": "Oferta por Tiempo Limitado",
+      "heading": "Obtén 20% de Descuento en Tu Próximo Pedido",
+      "body": "Únete a miles de familias felices que confían en ToyZone para juguetes seguros, imaginativos y educativos. Regístrate hoy y desbloquea ofertas exclusivas.",
+      "cta": "Comprar Todos los Juguetes"
+    }
+  }
+}

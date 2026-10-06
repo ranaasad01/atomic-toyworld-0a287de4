@@ -1,0 +1,120 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Nunito:wght@400;500;600;700;800&display=swap');
+
+:root {
+  /* Brand Colors */
+  --brand-primary: #FF6B35;
+  --brand-primary-shadow: rgba(255, 107, 53, 0.35);
+  --brand-yellow: #FFD700;
+  --brand-yellow-shadow: rgba(255, 215, 0, 0.35);
+  --brand-green: #4CAF50;
+  --brand-green-shadow: rgba(76, 175, 80, 0.3);
+  --brand-dark: #1A1A2E;
+  --brand-dark-muted: rgba(26, 26, 46, 0.7);
+
+  /* Surfaces */
+  --background: #FAFAF8;
+  --foreground: #1A1A2E;
+  --card: #FFFFFF;
+  --card-hover: #FFFBF8;
+
+  /* Borders & Muted */
+  --border: rgba(26, 26, 46, 0.08);
+  --muted: #F5F4F0;
+  --muted-foreground: rgba(26, 26, 46, 0.55);
+
+  /* Semantic */
+  --accent: #FF6B35;
+  --accent-foreground: #FFFFFF;
+    --brand-accent-hover: 240 10% 3.9%;
+    --brand-accent: 240 10% 3.9%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-nunito), 'Nunito', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.font-fredoka {
+  font-family: var(--font-fredoka), 'Fredoka One', cursive;
+}
+
+.font-nunito {
+  font-family: var(--font-nunito), 'Nunito', system-ui, sans-serif;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--muted);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--brand-primary);
+  border-radius: 999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--brand-dark);
+}
+
+/* Focus styles */
+:focus-visible {
+  outline: 2px solid var(--brand-primary);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Selection */
+::selection {
+  background-color: var(--brand-primary);
+  color: white;
+}
+
+/* Utility classes */
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  .text-pretty {
+    text-wrap: pretty;
+  }
+  .bg-brand-primary {
+    background-color: var(--brand-primary);
+  }
+  .text-brand-primary {
+    color: var(--brand-primary);
+  }
+  .bg-brand-yellow {
+    background-color: var(--brand-yellow);
+  }
+  .text-brand-yellow {
+    color: var(--brand-yellow);
+  }
+  .bg-brand-green {
+    background-color: var(--brand-green);
+  }
+  .text-brand-green {
+    color: var(--brand-green);
+  }
+  .bg-brand-dark {
+    background-color: var(--brand-dark);
+  }
+  .text-brand-dark {
+    color: var(--brand-dark);
+  }
+}

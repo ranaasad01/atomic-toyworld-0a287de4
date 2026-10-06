@@ -1,0 +1,555 @@
+{
+  "nav": {
+    "home": "Home",
+    "shop": "Shop",
+    "about": "About Us",
+    "contact": "Contact",
+    "cart": "Cart"
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "categories": "Categories",
+    "contactUs": "Contact Us",
+    "catAction": "Action Figures",
+    "catEducational": "Educational Toys",
+    "catOutdoor": "Outdoor & Sports",
+    "catDolls": "Dolls & Plush",
+    "catBoardGames": "Board Games",
+    "catStem": "STEM Toys",
+    "copyright": "© 2024 ToyWorld. All rights reserved.",
+    "madeWith": "Made with",
+    "forKids": "for kids everywhere",
+    "tagline": "Where imagination comes to life!",
+    "rights": "All rights reserved."
+  },
+  "hero": {
+    "badge": "New arrivals every week",
+    "title": "Play, Learn and Grow",
+    "titleAccent": "Together",
+    "subtitle": "Discover thousands of toys that spark imagination, build skills, and create memories that last a lifetime.",
+    "cta": {
+      "primary": "Shop Now",
+      "secondary": "Our Story"
+    },
+    "ctaSecondary": "View Categories",
+    "stat1Value": "10,000+",
+    "stat1Label": "Happy Kids",
+    "stat2Value": "500+",
+    "stat2Label": "Toy Brands",
+    "stat3Value": "4.9",
+    "stat3Label": "Star Rating",
+    "heading": {
+      "line1": "Toys That Spark",
+      "accent": "Joy",
+      "line2": "Every Day"
+    },
+    "subtext": "Discover thousands of safe, imaginative, and educational toys for every age. From first steps to big adventures, ToyZone has the perfect toy for every child.",
+    "stats": [
+      {
+        "value": "10,000+",
+        "label": "Happy Kids"
+      },
+      {
+        "value": "500+",
+        "label": "Toy Brands"
+      },
+      {
+        "value": "4.9★",
+        "label": "Average Rating"
+      }
+    ],
+    "floatCard1": {
+      "title": "Free Gift Wrapping",
+      "sub": "On orders over $40"
+    },
+    "floatCard2": {
+      "title": "Top Rated Store",
+      "sub": "4.9 stars from 8,000+ reviews"
+    }
+  },
+  "categories": {
+    "title": "Shop by Category",
+    "subtitle": "Find the perfect toy for every child",
+    "viewAll": "View All",
+    "eyebrow": "Browse by Category",
+    "heading": "Find the Perfect Toy",
+    "subtext": "From action-packed adventures to calm creative play, explore our curated categories designed for every kind of kid."
+  },
+  "featured": {
+    "title": "Bestselling Toys",
+    "subtitle": "Loved by kids, trusted by parents",
+    "addToCart": "Add to Cart",
+    "viewAll": "View all toys",
+    "sale": "Sale",
+    "new": "New",
+    "popular": "Popular",
+    "bestseller": "Bestseller",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "eyebrow": "Trending Now",
+    "heading": "Kids Are Loving These"
+  },
+  "newsletter": {
+    "badge": "Stay in the Loop",
+    "title": "Get Exclusive Deals and New Arrivals",
+    "subtitle": "Join over 50,000 happy parents who get early access to sales, new toys, and parenting tips.",
+    "placeholder": "Enter your email address",
+    "cta": "Subscribe Free",
+    "disclaimer": "No spam, ever. Unsubscribe anytime.",
+    "benefit1": "Early access to sales",
+    "benefit2": "New arrival alerts",
+    "benefit3": "Parenting tips"
+  },
+  "shop": {
+    "title": "All Toys",
+    "subtitle": "products found",
+    "filterAge": "Age Group",
+    "filterCategory": "Category",
+    "filterPrice": "Price Range",
+    "sortBy": "Sort By",
+    "sortFeatured": "Featured",
+    "sortPriceLow": "Price: Low to High",
+    "sortPriceHigh": "Price: High to Low",
+    "sortRating": "Top Rated",
+    "results": "products found",
+    "addToCart": "Add to Cart",
+    "allCategories": "All Categories",
+    "allAges": "All Ages",
+    "searchPlaceholder": "Search toys, brands, categories...",
+    "filtersLabel": "Filters",
+    "clearAll": "Clear all",
+    "noResults": {
+      "heading": "No toys found",
+      "body": "Try adjusting your search or filters to find what you are looking for.",
+      "cta": "Clear all filters"
+    },
+    "sort": {
+      "label": "Sort by",
+      "options": [
+        {
+          "value": "popular",
+          "label": "Most Popular"
+        },
+        {
+          "value": "newest",
+          "label": "Newest First"
+        },
+        {
+          "value": "price-asc",
+          "label": "Price: Low to High"
+        },
+        {
+          "value": "price-desc",
+          "label": "Price: High to Low"
+        },
+        {
+          "value": "rating",
+          "label": "Top Rated"
+        }
+      ]
+    },
+    "filters": {
+      "category": "Category",
+      "ageGroup": "Age Group",
+      "brand": "Brand",
+      "priceRange": "Price Range"
+    },
+    "pagination": {
+      "prev": "Prev",
+      "next": "Next",
+      "showing": "Showing {from}–{to} of {total} products"
+    },
+    "card": {
+      "addToCart": "Add",
+      "soldOut": "Sold Out",
+      "wishlist": "Add to wishlist"
+    },
+    "newsletter": {
+      "heading": "Get exclusive toy deals",
+      "body": "Join 50,000+ parents and get early access to sales, new arrivals, and gift guides.",
+      "placeholder": "Your email address",
+      "cta": "Subscribe"
+    }
+  },
+  "product": {
+    "addToCart": "Add to Cart",
+    "buyNow": "Buy Now",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "reviews": "reviews",
+    "description": "Description",
+    "ageGroup": "Age Group",
+    "category": "Category",
+    "share": "Share",
+    "wishlist": "Add to Wishlist",
+    "relatedTitle": "You Might Also Like"
+  },
+  "cart": {
+    "title": "Your Cart",
+    "empty": {
+      "heading": "Your cart is empty",
+      "body": "Looks like you haven't added any toys yet. Explore our collection and find something amazing for the little ones!",
+      "cta": "Continue Shopping"
+    },
+    "emptySubtitle": "Your cart is looking a little empty",
+    "shopNow": "Start Shopping",
+    "remove": "Remove",
+    "quantity": "Qty",
+    "subtotal": "Subtotal",
+    "shipping": {
+      "free": "You've unlocked FREE shipping on this order!",
+      "threshold": "Add ${amount} more to unlock free shipping"
+    },
+    "shippingFree": "Free",
+    "total": "Total",
+    "checkout": {
+      "cta": "Proceed to Checkout"
+    },
+    "continueShopping": "Continue Shopping",
+    "promoCode": "Promo Code",
+    "apply": "Apply",
+    "subtitle": "{count} items ready for adventure",
+    "item": {
+      "remove": "Remove item",
+      "decrease": "Decrease quantity",
+      "increase": "Increase quantity",
+      "each": "Each"
+    },
+    "summary": {
+      "title": "Order Summary",
+      "subtotal": "Subtotal",
+      "shipping": "Estimated Shipping",
+      "freeLabel": "FREE",
+      "total": "Grand Total"
+    },
+    "discount": {
+      "label": "Discount Code",
+      "placeholder": "Enter code (e.g. TOYZONE10)",
+      "apply": "Apply",
+      "error": "That code doesn't seem right. Try TOYZONE10 or PLAY5.",
+      "applied": "Discount applied successfully!",
+      "hint": "Try TOYZONE10 for 10% off or PLAY5 for $5 off"
+    },
+    "trust": {
+      "secure": "Secure Checkout",
+      "returns": "Easy Returns"
+    },
+    "promo": {
+      "heading": "Limited Time Offer",
+      "body": "Use code TOYZONE10 at checkout for 10% off your entire order. Valid on all toys and games this week only!"
+    }
+  },
+  "about": {
+    "badge": "Our Story",
+    "title": "Bringing Joy to Children Since 2010",
+    "subtitle": "We believe every child deserves toys that inspire creativity, build confidence, and make learning fun.",
+    "mission": "Our Mission",
+    "missionText": "To curate the world's best toys and deliver them to families everywhere, making childhood magical one toy at a time.",
+    "vision": "Our Vision",
+    "visionText": "A world where every child has access to quality toys that nurture their unique potential and spark lifelong curiosity.",
+    "stat1Value": "14",
+    "stat1Label": "Years in Business",
+    "stat2Value": "2M+",
+    "stat2Label": "Toys Delivered",
+    "stat3Value": "50+",
+    "stat3Label": "Countries Served",
+    "stat4Value": "98%",
+    "stat4Label": "Happy Customers",
+    "teamTitle": "Meet Our Team",
+    "teamSubtitle": "Passionate people who love toys as much as kids do",
+    "valuesTitle": "What We Stand For",
+    "value1Title": "Safety First",
+    "value1Desc": "Every toy is rigorously tested and certified safe for children.",
+    "value2Title": "Quality Guaranteed",
+    "value2Desc": "We partner only with brands that meet our high quality standards.",
+    "value3Title": "Eco Friendly",
+    "value3Desc": "Committed to sustainable packaging and eco-conscious toy brands.",
+    "value4Title": "Community",
+    "value4Desc": "Supporting children's charities and donating toys to those in need.",
+    "hero": {
+      "badge": "Years of Joy",
+      "title": "We Believe Every Child Deserves to Play",
+      "subtitle": "ToyZone was built by parents, educators, and dreamers who know that the right toy at the right moment can spark a lifelong love of learning, creativity, and adventure.",
+      "eyebrow": "Our Story",
+      "description": "ToyZone was born from a simple idea: the right toy at the right moment can change a child's life. For over 12 years, we have been curating safe, imaginative, and joyful toys for families everywhere.",
+      "cta": "Shop Our Collection",
+      "secondary": "Get in Touch"
+    },
+    "story": {
+      "eyebrow": "How It Started",
+      "title": "From a Small Shop to a Million Smiles",
+      "subtitle": "From a garage shelf to a global family, here is the story of how we grew — one toy, one child, one smile at a time.",
+      "p1": "In 2012, Sarah Mitchell opened a tiny toy shop in San Francisco with 200 carefully chosen products and a big dream. She had spent years as a child psychologist watching how the right toy could unlock creativity, build confidence, and strengthen family bonds.",
+      "p2": "What started as a neighborhood favorite quickly grew into something much larger. Families drove hours to visit, and soon the demand for an online store was impossible to ignore. Today, ToyZone ships to every corner of the country, but our founding philosophy has never changed.",
+      "bullets": [
+        "Every toy is tested by real children before we stock it",
+        "We partner only with manufacturers who meet our ethical sourcing standards",
+        "Our team includes educators, child psychologists, and parents",
+        "We donate 1% of every sale to childhood literacy programs"
+      ]
+    },
+    "values": {
+      "eyebrow": "What We Stand For",
+      "title": "Principles That Guide Every Decision",
+      "subtitle": "From the toys we choose to the way we package them, our values shape every part of the ToyZone experience."
+    },
+    "team": {
+      "eyebrow": "The People Behind the Play",
+      "title": "Meet the ToyZone Team",
+      "subtitle": "A passionate group of parents, educators, and play advocates who wake up every day thinking about how to bring more joy to children."
+    },
+    "stats": {
+      "title": "ToyZone by the Numbers",
+      "subtitle": "Nearly two decades of bringing joy to families around the world — and we are just getting started."
+    },
+    "cta": {
+      "title": "Ready to Find the Perfect Toy?",
+      "subtitle": "Browse our hand-curated collection of over 2,000 safe, imaginative, and planet-friendly toys for every age and stage.",
+      "shop": "Shop Now",
+      "contact": "Get in Touch",
+      "description": "Browse thousands of safe, imaginative, and expertly curated toys for every age, interest, and budget. Free shipping on orders over $50.",
+      "primary": "Shop Now",
+      "secondary": "Contact Us"
+    },
+    "timeline": {
+      "eyebrow": "Our Journey",
+      "title": "Twelve Years of Making Kids Smile"
+    },
+    "awards": {
+      "eyebrow": "Recognition",
+      "title": "Trusted by Families, Recognized by Experts",
+      "description": "Our commitment to safety, quality, and childhood development has earned us recognition from leading parenting organizations and industry bodies across the country.",
+      "badge": "Award-Winning Since 2015",
+      "items": [
+        {
+          "icon": "🏆",
+          "title": "Parents' Choice Gold Award, 2023",
+          "body": "Recognized for outstanding contribution to children's play and development."
+        },
+        {
+          "icon": "🛡️",
+          "title": "Safe Play Certified Retailer",
+          "body": "Every product meets or exceeds ASTM F963 and EN71 international safety standards."
+        },
+        {
+          "icon": "🌱",
+          "title": "Sustainable Business of the Year, 2022",
+          "body": "Awarded by the Green Retail Council for our eco-friendly packaging and ethical sourcing."
+        },
+        {
+          "icon": "⭐",
+          "title": "Best Online Toy Store, 2024",
+          "body": "Voted by over 50,000 families in the National Parenting Survey."
+        }
+      ]
+    }
+  },
+  "contact": {
+    "badge": "Get in Touch",
+    "title": "We'd Love to Hear From You",
+    "subtitle": "Have a question about an order, need help choosing the perfect toy, or just want to say hi? We're here for you.",
+    "nameLabel": "Your Name",
+    "namePlaceholder": "Jane Smith",
+    "emailLabel": "Email Address",
+    "emailPlaceholder": "hello@example.com",
+    "subjectLabel": "Subject",
+    "subjectPlaceholder": "How can we help?",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Tell us what's on your mind...",
+    "submit": "Send Message",
+    "sending": "Sending...",
+    "successTitle": "Message Sent!",
+    "successText": "Thanks for reaching out. We'll get back to you within 24 hours.",
+    "infoTitle": "Contact Information",
+    "hoursTitle": "Store Hours",
+    "hours": "Mon to Fri: 9am to 6pm PST",
+    "hoursSat": "Saturday: 10am to 4pm PST",
+    "hoursSun": "Sunday: Closed",
+    "hero": {
+      "badge": "We're here to help",
+      "title": "Get in Touch",
+      "subtitle": "Questions about an order, a product, or just want to say hi? Our friendly team is ready to help."
+    },
+    "info": {
+      "email": {
+        "label": "Email Us",
+        "value": "hello@example.com",
+        "detail": "We reply within 24 hours"
+      },
+      "phone": {
+        "label": "Call Us",
+        "value": "555-0100",
+        "detail": "Mon–Fri, 9am–6pm PST"
+      },
+      "address": {
+        "label": "Visit Us",
+        "value": "123 Rainbow Road",
+        "detail": "Fun City, CA 90210"
+      },
+      "hours": {
+        "label": "Store Hours",
+        "value": "Mon–Sat: 9am–8pm",
+        "detail": "Sunday: 10am–6pm"
+      }
+    },
+    "form": {
+      "title": "Send a Message",
+      "subtitle": "We'll get back to you within 24 hours",
+      "namePlaceholder": "Jane Smith",
+      "emailPlaceholder": "hello@example.com",
+      "topicPlaceholder": "Select a topic...",
+      "messagePlaceholder": "Tell us how we can help...",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "successTitle": "Message Sent!",
+      "successBody": "Thanks for reaching out. A member of the ToyZone team will be in touch soon.",
+      "sendAnother": "Send Another Message"
+    },
+    "topics": [
+      "Order Status",
+      "Returns & Exchanges",
+      "Product Question",
+      "Bulk / School Order",
+      "Gift Wrapping",
+      "Other"
+    ],
+    "store": {
+      "title": "Our Flagship Store",
+      "address": "123 Rainbow Road, Fun City, CA 90210",
+      "directions": "Get Directions"
+    },
+    "faq": {
+      "badge": "FAQ",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Can't find what you're looking for? Send us a message above.",
+      "items": [
+        {
+          "id": "returns",
+          "question": "What is your return policy?",
+          "answer": "We offer a 30-day hassle-free return policy on all items. Products must be in original packaging and unused condition. Simply contact us and we'll arrange a pickup."
+        },
+        {
+          "id": "shipping",
+          "question": "How long does shipping take?",
+          "answer": "Standard shipping takes 3–5 business days. Express shipping (1–2 days) is available at checkout. Orders over $50 qualify for free standard shipping."
+        },
+        {
+          "id": "safety",
+          "question": "Are your toys safety certified?",
+          "answer": "Absolutely. Every product in our store meets or exceeds ASTM and CPSC safety standards. We only carry toys that have passed rigorous testing for all age groups."
+        },
+        {
+          "id": "gift",
+          "question": "Do you offer gift wrapping?",
+          "answer": "Yes! Gift wrapping is available for $4.99 per item. You can add a personalized message card at no extra charge. Select the option at checkout."
+        },
+        {
+          "id": "bulk",
+          "question": "Can I place a bulk or school order?",
+          "answer": "We love working with schools, daycares, and event planners. Contact us directly for bulk pricing and we'll put together a custom quote within 48 hours."
+        }
+      ]
+    },
+    "cta": {
+      "emoji": "🎉",
+      "title": "Still have questions?",
+      "subtitle": "Our toy experts are standing by. Call us or drop into the store any day of the week.",
+      "callNow": "Call Now",
+      "emailUs": "Email Us"
+    }
+  },
+  "value": {
+    "shipping": {
+      "title": "Free Shipping",
+      "desc": "On all orders over $35. Fast delivery to your door."
+    },
+    "safety": {
+      "title": "Safety Certified",
+      "desc": "Every toy meets or exceeds ASTM safety standards."
+    },
+    "returns": {
+      "title": "Easy Returns",
+      "desc": "30-day hassle-free returns, no questions asked."
+    },
+    "support": {
+      "title": "Expert Support",
+      "desc": "Our toy specialists are here 7 days a week."
+    }
+  },
+  "story": {
+    "eyebrow": "Our Mission",
+    "heading": "Play is the Work of Childhood",
+    "body1": "Founded by parents who believe every child deserves toys that inspire curiosity, creativity, and connection. ToyZone curates only the best from trusted brands around the world.",
+    "body2": "We test every product for safety, durability, and genuine play value before it ever reaches our shelves. Because your child's smile is worth it.",
+    "statValue": "15+ Years",
+    "statLabel": "Bringing joy to families",
+    "pillars": [
+      {
+        "icon": "🛡️",
+        "label": "Safety First"
+      },
+      {
+        "icon": "🌍",
+        "label": "Eco-Friendly"
+      },
+      {
+        "icon": "🎓",
+        "label": "Educational"
+      },
+      {
+        "icon": "❤️",
+        "label": "Family Owned"
+      }
+    ],
+    "cta": "Learn More About Us"
+  },
+  "testimonials": {
+    "eyebrow": "Happy Families",
+    "heading": "Parents and Kids Love ToyZone"
+  },
+  "giftFinder": {
+    "heading": "Not Sure What to Get?",
+    "subtext": "Let our toy experts help you find the perfect gift. Browse by age, interest, or budget and discover something they will absolutely love.",
+    "cta": {
+      "primary": "Explore All Toys",
+      "secondary": "Ask an Expert"
+    }
+  },
+  "productDetail": {
+    "breadcrumb": {
+      "home": "Home",
+      "shop": "Shop"
+    },
+    "tabs": {
+      "description": "Description",
+      "specs": "Specifications",
+      "reviews": "Reviews"
+    },
+    "info": {
+      "ageLabel": "Age",
+      "inStock": "In Stock",
+      "off": "OFF",
+      "shortDesc": "Award-winning interactive robot that teaches coding fundamentals through play. Pairs with a free companion app for endless missions and creative challenges."
+    },
+    "cta": {
+      "addToCart": "Add to Cart",
+      "added": "Added to Cart!"
+    },
+    "trust": {
+      "freeShipping": "Free Shipping over $35",
+      "safePayment": "Safe & Secure Payment",
+      "easyReturns": "30-Day Easy Returns"
+    },
+    "related": {
+      "eyebrow": "Explore More",
+      "heading": "You May Also Like",
+      "viewAll": "View All Toys"
+    },
+    "banner": {
+      "eyebrow": "Limited Time Offer",
+      "heading": "Get 20% Off Your Next Order",
+      "body": "Join thousands of happy families who trust ToyZone for safe, imaginative, and educational toys. Sign up today and unlock exclusive deals.",
+      "cta": "Shop All Toys"
+    }
+  }
+}
